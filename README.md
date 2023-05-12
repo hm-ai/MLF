@@ -34,11 +34,13 @@ This [GitHub Home page](https://hm-ai.github.io/MLF/) contains all the materials
 
 ## Reviews
 
-| Session            | Review pdf                                                  | 
-|--------------------|-------------------------------------------------------------|
-| Session 5          | [Review 1](Reviews/Review_1.pdf)                            |
-| Optional Session 2 | [Hyperparameters Optimization](Reviews/HP_Optimization.pdf) |
-| Session 7          | [Review 2](Reviews/Review_2.pdf)                            |
+| Session            | Review pdf                                                                                                                                                                                                             | 
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Session 5          | [Review 1](Reviews/Review_1.pdf)                                                                                                                                                                                       |
+| Optional Session 2 | [Hyperparameters Optimization](Reviews/HP_Optimization.pdf)                                                                                                                                                            |
+| Session 7          | [Review 2](Reviews/Review_2.pdf)                                                                                                                                                                                       |
+| Session 9          | [Stream 1](https://jamboard.google.com/d/1RXzJeGupUsSs26ev1aHOvH-yzLAw9NKWPd5GtrwPmWA/edit?usp=sharing) <br/> [Stream 2](https://jamboard.google.com/d/1POZziLI86uQb7lIjTElOOP0UCqg012iqExwNvlXBR2k/edit?usp=sharing)  |
+
 
 
 
