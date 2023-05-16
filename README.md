@@ -76,7 +76,7 @@ The objectives of this module are:
 
 | Assignment                                                                                           |  Type         | Weighting | Date Released to students | Date Due | 
 |------------------------------------------------------------------------------------------------------|---------------|-----------|---------------------------|----------|
-| [Coursework](https://colab.research.google.com/drive/1-bWh9KsN0f7ZlgVKzrtvqHmcAYCKTSeK?usp=sharing)  | Group project | 50 %      | 05/15/23                  |          |
+| [Coursework](https://colab.research.google.com/drive/1-bWh9KsN0f7ZlgVKzrtvqHmcAYCKTSeK?usp=sharing)  | Group project | 50 %      | 05/15/23                  | 05/30/23 |
 
 
 
