@@ -74,9 +74,9 @@ The objectives of this module are:
 
 ## Coursework breakdown
 
-| Assignment | Quiz Coursework | Quiz Coursework Solutions | Slides | Type           | Weighting | Date Released to students | Date Due | 
-|------------|-----------------|---------------------------|--------|----------------|-----------|---------------------------|----------|
-|            |                 |                           |        | Group project  | 50 %      | 05/15/23                  |          |
+| Assignment                                                                                           |  Type         | Weighting | Date Released to students | Date Due | 
+|------------------------------------------------------------------------------------------------------|---------------|-----------|---------------------------|----------|
+| [Coursework](https://colab.research.google.com/drive/1-bWh9KsN0f7ZlgVKzrtvqHmcAYCKTSeK?usp=sharing)  | Group project | 50 %      | 05/15/23                  |          |
 
 
 
