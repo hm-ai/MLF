@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./images/logo.png" alt="Logo" width="20%"/>
+    <img src="./images/logo.png" alt="Logo" width="30%"/>
 </div>
 
 Welcome to you all !
