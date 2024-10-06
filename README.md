@@ -1,4 +1,6 @@
-<img src="https://drive.google.com/uc?export=view&id=1gmxxmwCR1WXK0IYtNqvE4QXFleznWqQO" height="100"/>
+<div align="center">
+    <img src="./images/logo.png" alt="Logo" width="20%"/>
+</div>
 
 Welcome to you all !
 
